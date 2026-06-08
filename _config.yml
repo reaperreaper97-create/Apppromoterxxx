@@ -1,4 +1,23 @@
-title: App Promoter
-description: App reviews and guides
+title: Pornhub App Review & Guide
+description: Complete guide to Pornhub app for Android. Safe download, installation, features, and safety tips for 2026.
 baseurl: ""
-url: ""
+url: "https://reaperreaper97-create.github.io/Apppromoterxxx"
+lang: en
+author: App Promoter
+twitter:
+  username: app_promoter
+  card: summary
+social:
+  name: App Promoter
+  links:
+    - https://reaperreaper97-create.github.io/Apppromoterxxx
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+      image: /assets/images/og-image.png
