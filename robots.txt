@@ -1,0 +1,7 @@
+# IndexNow
+# Submits URLs to Bing + Yandex for fast indexing (no Google Search Console needed)
+# https://www.indexnow.org/
+
+User-agent: *
+Allow: /
+Sitemap: https://reaperreaper97-create.github.io/Apppromoterxxx/sitemap.xml
