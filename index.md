@@ -21,16 +21,22 @@ The fastest way to get the app is through the Google Play Store:
 
 Below are independent writeups and comparisons hosted across multiple platforms. Each covers a different angle — feature breakdown, safety analysis, installation walkthrough, or side-by-side testing against alternatives.
 
-### Long-form reviews
+### Long-form reviews on this site
 
-- **[Pornhub App for Android: Complete Review & Download Guide](https://promoterapp2026-evmbk.wordpress.com/2026/06/08/pornhub-app-android-2026-review/)** — feature breakdown, safety tips, install walkthrough with screenshots
-- **[Crimzle Yumy — Review & Guide](https://telegra.ph/Crimzle-Yumy--Review--Guide-06-02-2)** — first-impressions review covering the home screen, search, and offline mode
-- **[Adult Streaming App for Android: Complete Review & Download Guide](https://dev.to/eugene_6a0cdb74df6e124d95/pornhub-app-for-android-complete-review-and-download-guide-4c33)** — developer-community perspective on the install permissions and Play Protect score
+- **[Pornhub App Permissions on Android 2026: What It Actually Accesses](/pornhub-app-permissions-android/)** — full permission audit, runtime behavior, and side-by-side with third-party APKs
+- **[Pornhub App After 30 Days: What Still Works, What Broke, What I'd Change](/pornhub-app-30-day-review/)** — long-term review: crash log, battery, network, storage, update cadence
+- **[Pornhub App vs Browser: Which Is Actually Faster on Android](/pornhub-app-vs-browser/)** — performance benchmark over 350 sessions per side
+- **[60-Day Safety Analysis: This Pornhub App vs the Third-Party APK World](/pornhub-app-android-2026-safety/)** — full permission and network audit
+- **[Pornhub App Install Walkthrough for Android](/install-pornhub-app-android/)** — step-by-step Play Store install
+- **[Pornhub App Review (first impressions)](/pornhub-app-review/)** — first-impressions review covering the home screen, search, and offline mode
 
-### Installation & safety guides
+### Long-form reviews on other platforms
 
-- **[Pornhub APK Download for Android — Safe Installation Guide](https://telegra.ph/Pornhub-APK-Download-for-Android---Safe-Installation-Guide-2026-06-03)** — how to verify the APK before installing, how to read Play Protect warnings
-- **[Pornhub App Review: Features, Safety, and How to Install on Android](https://telegra.ph/Pornhub-App-Review-Features-Safety-and-How-to-Install-on-Android-06-03)** — full feature list and security analysis
+- **[Pornhub App for Android: Complete Review & Download Guide (WordPress)](https://promoterapp2026-evmbk.wordpress.com/2026/06/08/pornhub-app-android-2026-review/)** — feature breakdown, safety tips, install walkthrough with screenshots
+- **[Crimzle Yumy — Review & Guide (Telegra.ph)](https://telegra.ph/Crimzle-Yumy--Review--Guide-06-02-2)** — first-impressions review
+- **[Adult Streaming App for Android: Complete Review (Dev.to)](https://dev.to/eugene_6a0cdb74df6e124d95/pornhub-app-for-android-complete-review-and-download-guide-4c33)** — developer-community perspective on install permissions and Play Protect score
+- **[Pornhub APK Download for Android — Safe Installation Guide (Telegra.ph)](https://telegra.ph/Pornhub-APK-Download-for-Android---Safe-Installation-Guide-2026-06-03)** — how to verify the APK before installing, how to read Play Protect warnings
+- **[Pornhub App Review: Features, Safety, and How to Install on Android (Telegra.ph)](https://telegra.ph/Pornhub-App-Review-Features-Safety-and-How-to-Install-on-Android-06-03)** — full feature list and security analysis
 
 ### Independent long-form on Medium
 
