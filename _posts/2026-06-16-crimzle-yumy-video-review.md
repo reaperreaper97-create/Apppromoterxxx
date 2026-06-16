@@ -4,6 +4,7 @@ title: "Crimzle Yumy App Review — 48-Second Video Walkthrough (2026)"
 description: "Short video walkthrough of Crimzle Yumy, the pornhub app for Android: home screen, search, video player, offline mode, and Play Store install. Independent review, no affiliation."
 keywords: "Crimzle Yumy, pornhub app, pornhub app android, adult app review, video review, mobile streaming"
 date: 2026-06-16 14:00:00 +0000
+permalink: /crimzle-yumy-video-review/
 canonical_url: https://reaperreaper97-create.github.io/Apppromoterxxx/crimzle-yumy-video-review/
 ---
 
