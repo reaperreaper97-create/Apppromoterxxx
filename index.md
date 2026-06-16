@@ -17,6 +17,14 @@ The fastest way to get the app is through the Google Play Store:
 
 - **[Crimzle Yumy on Google Play](https://play.google.com/store/apps/details?id=com.crimzleyumy.icrimzuyumy)** — official listing, Play Protect approved, regular updates
 
+## Watch the 48-Second Video Review
+
+<div class="video-wrapper" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:720px;margin:24px 0;">
+  <iframe src="https://www.youtube.com/embed/HWz4AIwxl5I" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen loading="lazy" title="Crimzle Yumy App Review — Pornhub App for Android 2026"></iframe>
+</div>
+
+A short walkthrough of the app's home screen, search, video player, and offline mode — the same flow you'd see in the first five minutes after install. For the full text review, see the articles below.
+
 ## Independent Reviews & Comparisons
 
 Below are independent writeups and comparisons hosted across multiple platforms. Each covers a different angle — feature breakdown, safety analysis, installation walkthrough, or side-by-side testing against alternatives.
