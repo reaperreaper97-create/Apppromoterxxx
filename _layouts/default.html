@@ -67,55 +67,15 @@
   }
   </script>
 
-  <!-- Schema.org: WebSite -->
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "WebSite",
-    "name": "Pornhub by Bigtink — Official Install Guide & US Review Hub",
-    "url": "https://reaperreaper97-create.github.io/Apppromoterxxx/",
-    "publisher": {
-      "@type": "Organization",
-      "name": "Bigtink"
-    },
-    "inLanguage": "en-US"
-  }
-  </script>
+  {% comment %}
+    NOTE: WebSite + Article schemas intentionally omitted here — jekyll-seo-tag
+    auto-injects BlogPosting/WebPage for these, and Google de-duplicates by
+    @type. We only emit Organization + SoftwareApplication + BreadcrumbList
+    which seo-tag does NOT generate.
+  {% endcomment %}
 
-  {% if page.layout == "post" %}
-  <!-- Schema.org: Article — per-post -->
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": {{ page.title | jsonify }},
-    "description": {{ page.description | jsonify }},
-    "datePublished": "{{ page.date | date_to_xmlschema }}",
-    "dateModified": "{{ page.date | date_to_xmlschema }}",
-    "author": {
-      "@type": "Organization",
-      "name": "Bigtink"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "Bigtink"
-    },
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "{{ page.url | absolute_url }}"
-    },
-    "inLanguage": "en-US",
-    "about": {
-      "@type": "SoftwareApplication",
-      "name": "Pornhub by Bigtink",
-      "operatingSystem": "Android",
-      "applicationCategory": "MultimediaApplication"
-    }
-  }
-  </script>
-  {% endif %}
-
-  <!-- Schema.org: BreadcrumbList -->
+  {% unless page.url == "/" %}
+  <!-- Schema.org: BreadcrumbList (only on non-home pages — Google requires ≥2 items) -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -126,16 +86,17 @@
         "position": 1,
         "name": "Home",
         "item": "https://reaperreaper97-create.github.io/Apppromoterxxx/"
-      }{% if page.url != "/" %},
+      },
       {
         "@type": "ListItem",
         "position": 2,
         "name": {{ page.title | default: page.url | jsonify }},
         "item": "{{ page.url | absolute_url }}"
-      }{% endif %}
+      }
     ]
   }
   </script>
+  {% endunless %}
 </head>
 <body>
   <nav style="padding:15px;background:#1a1a2e;margin-bottom:20px;">
