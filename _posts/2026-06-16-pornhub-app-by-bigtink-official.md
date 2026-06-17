@@ -6,6 +6,17 @@ keywords: "pornhub by bigtink, bigtink android app, official pornhub app develop
 date: 2026-06-16 16:00:00 +0000
 permalink: /pornhub-app-by-bigtink-official/
 canonical_url: https://reaperreaper97-create.github.io/Apppromoterxxx/pornhub-app-by-bigtink-official/
+faq:
+  - q: "Is Bigtink a legit Play Store developer?"
+    a: "Yes. Bigtink is an established Google Play developer account with a verified contact email, a published privacy policy, and a continuous update history on the Pornhub app's package. The account has cleared Play Store policy review for an adult-content app, which is a stricter review path than general-audience apps."
+  - q: "Why is the package called crimzleyumy if the app is Pornhub?"
+    a: "The app was originally published as Crimzle Yumy: Candy Creator. When Bigtink rebranded the slot to Pornhub in 2026, the visible name, icon, and description all changed, but Google Play locks the package id to the original product for technical reasons. Changing it would have created a separate app and erased install history."
+  - q: "Did the app actually change after the rebrand or just the name?"
+    a: "The app changed. The Pornhub release is a different product from Crimzle Yumy in terms of content, UI, and category. The package id is the only piece that carried over from the older listing."
+  - q: "Is this really the official Pornhub app or a clone?"
+    a: "On Google Play USA, the listing published by Bigtink under this package id is the official adult app marketed as Pornhub. Clones tend to live on third-party APK sites with different package ids and unverified developer names."
+  - q: "How do I report a fake Pornhub app on the Play Store?"
+    a: "Open the suspect Play Store listing, scroll to the bottom, tap Flag as inappropriate, and pick the category that fits (copycat, harmful, or misleading). Google's review team handles takedowns within a few days for clear cases."
 ---
 
 If you've searched the Play Store in the US for the Pornhub app and ended up squinting at the developer name underneath the icon, you're not alone. The publisher line reads **Bigtink**, the package id reads `com.crimzleyumy.icrimzuyumy`, and Google's search snippet sometimes still shows a description about candy. None of that is a scam — it's just what a rebrand looks like before all the caches catch up. Here's the full picture on who Bigtink is, what the app actually is today, and how to make sure the one you tap install on is the real one.

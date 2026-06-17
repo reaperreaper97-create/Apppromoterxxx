@@ -113,6 +113,63 @@
   }
   </script>
   {% endunless %}
+
+  {% comment %} Per-page FAQPage Schema (opt-in via frontmatter) {% endcomment %}
+  {% if page.faq %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {% for item in page.faq %}
+      {
+        "@type": "Question",
+        "name": {{ item.q | jsonify }},
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": {{ item.a | jsonify }}
+        }
+      }{% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    ]
+  }
+  </script>
+  {% endif %}
+
+  {% comment %} Per-page HowTo Schema (opt-in via frontmatter) {% endcomment %}
+  {% if page.howto %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    "name": {{ page.howto.name | jsonify }},
+    "description": {{ page.howto.description | jsonify }},
+    {% if page.howto.totalTime %}"totalTime": {{ page.howto.totalTime | jsonify }},{% endif %}
+    {% if page.howto.estimatedCost %}"estimatedCost": {
+      "@type": "MonetaryAmount",
+      "currency": "USD",
+      "value": {{ page.howto.estimatedCost | jsonify }}
+    },{% endif %}
+    {% if page.howto.supply %}"supply": [
+      {% for s in page.howto.supply %}{"@type": "HowToSupply", "name": {{ s | jsonify }}}{% unless forloop.last %},{% endunless %}{% endfor %}
+    ],{% endif %}
+    {% if page.howto.tool %}"tool": [
+      {% for t in page.howto.tool %}{"@type": "HowToTool", "name": {{ t | jsonify }}}{% unless forloop.last %},{% endunless %}{% endfor %}
+    ],{% endif %}
+    "step": [
+      {% for step in page.howto.steps %}
+      {
+        "@type": "HowToStep",
+        "position": {{ forloop.index }},
+        "name": {{ step.name | jsonify }},
+        "text": {{ step.text | jsonify }},
+        "url": "{{ page.url | absolute_url }}#step-{{ forloop.index }}"
+      }{% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    ]
+  }
+  </script>
+  {% endif %}
 </head>
 <body>
   <nav style="padding:15px;background:#1a1a2e;margin-bottom:20px;">
