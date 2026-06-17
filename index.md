@@ -3,6 +3,31 @@ layout: home
 title: Pornhub App for Android (USA, 2026) — Official Bigtink Install Guide & Review Hub
 description: Honest 2026 review of the official Pornhub app for Android by Bigtink on the Google Play Store USA. Free install on Verizon, T-Mobile, AT&T. Permissions audit, 30-day report, side-by-side with the mobile browser.
 keywords: "pornhub app, pornhub app android, pornhub app usa, pornhub app download, pornhub by bigtink, bigtink android app, adult app android america, google play adult app usa, verizon pornhub app, t-mobile pornhub app, at&t pornhub app"
+itemlist:
+  name: "Pornhub App by Bigtink — Independent Review Hub (USA, 2026)"
+  items:
+    - name: "Pornhub App USA Review 2026 — Best Adult Android App for American Users"
+      url: "/pornhub-app-usa-review/"
+    - name: "Pornhub App by Bigtink — Official Developer Profile & App History"
+      url: "/pornhub-app-by-bigtink-official/"
+    - name: "Pornhub App on Google Play Store USA 2026 — Step-by-Step Install"
+      url: "/pornhub-app-android-google-play-usa-2026/"
+    - name: "Pornhub App Install Walkthrough for Android"
+      url: "/install-pornhub-app-android/"
+    - name: "Pornhub App on Android vs Safari on iPhone — Which Is Faster"
+      url: "/pornhub-app-android-vs-iphone-safari/"
+    - name: "Pornhub App Permissions on Android 2026: What It Actually Accesses"
+      url: "/pornhub-app-permissions-android/"
+    - name: "Pornhub App After 30 Days: What Still Works, What Broke, What I'd Change"
+      url: "/pornhub-app-30-day-review/"
+    - name: "Pornhub App vs Browser: Which Is Actually Faster on Android"
+      url: "/pornhub-app-vs-browser/"
+    - name: "60-Day Safety Analysis: The Pornhub App vs the Third-Party APK World"
+      url: "/pornhub-app-android-2026-safety/"
+    - name: "Pornhub App Review (first impressions)"
+      url: "/pornhub-app-review/"
+    - name: "Pornhub App — 48-Second Video Walkthrough (2026)"
+      url: "/crimzle-yumy-video-review/"
 ---
 
 # Pornhub App for Android (USA, 2026) — Official Install Guide & Review Hub

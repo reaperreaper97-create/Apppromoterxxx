@@ -6,6 +6,14 @@ keywords: "pornhub app, pornhub app android, pornhub app video review, pornhub b
 date: 2026-06-16 14:00:00 +0000
 permalink: /crimzle-yumy-video-review/
 canonical_url: https://reaperreaper97-create.github.io/Apppromoterxxx/crimzle-yumy-video-review/
+video:
+  name: "Pornhub App for Android USA 2026 — Free Install Guide (Official by Bigtink)"
+  description: "48-second walkthrough of the official Pornhub Android app by Bigtink: home screen, search, video player, and offline mode. Recorded on Pixel 7 after a clean Google Play USA install."
+  thumbnailUrl: "https://i.ytimg.com/vi/HWz4AIwxl5I/maxresdefault.jpg"
+  uploadDate: "2026-06-16T14:00:00+00:00"
+  duration: "PT48S"
+  contentUrl: "https://www.youtube.com/watch?v=HWz4AIwxl5I"
+  embedUrl: "https://www.youtube.com/embed/HWz4AIwxl5I"
 ---
 
 # Pornhub App for Android — 48-Second Video Walkthrough

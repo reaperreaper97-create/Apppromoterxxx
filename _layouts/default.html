@@ -20,7 +20,7 @@
     <link rel="alternate" hreflang="es" href="{{ '/es' | append: base_url | absolute_url }}">
     <link rel="alternate" hreflang="de" href="{{ '/de' | append: base_url | absolute_url }}">
     <link rel="alternate" hreflang="x-default" href="{{ base_url | absolute_url }}">
-  {% elsif page.url contains '/pornhub-app-usa-review/' or page.url contains '/pornhub-app-by-bigtink-official/' %}
+  {% elsif page.url contains '/pornhub-app-usa-review/' or page.url contains '/pornhub-app-by-bigtink-official/' or page.url contains '/install-pornhub-app-android/' %}
     {% assign base_url = page.url %}
     <link rel="alternate" hreflang="en-US" href="{{ base_url | absolute_url }}">
     <link rel="alternate" hreflang="es" href="{{ '/es' | append: base_url | absolute_url }}">
@@ -164,6 +164,52 @@
         "name": {{ step.name | jsonify }},
         "text": {{ step.text | jsonify }},
         "url": "{{ page.url | absolute_url }}#step-{{ forloop.index }}"
+      }{% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    ]
+  }
+  </script>
+  {% endif %}
+
+  {% comment %} Per-page VideoObject Schema (opt-in via frontmatter page.video) {% endcomment %}
+  {% if page.video %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": {{ page.video.name | jsonify }},
+    "description": {{ page.video.description | jsonify }},
+    "thumbnailUrl": {{ page.video.thumbnailUrl | jsonify }},
+    "uploadDate": {{ page.video.uploadDate | jsonify }},
+    "duration": {{ page.video.duration | jsonify }},
+    "contentUrl": {{ page.video.contentUrl | jsonify }},
+    "embedUrl": {{ page.video.embedUrl | jsonify }},
+    "publisher": {
+      "@type": "Organization",
+      "name": "Bigtink",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://reaperreaper97-create.github.io/Apppromoterxxx/assets/images/bigtink-editorial-avatar.png"
+      }
+    }
+  }
+  </script>
+  {% endif %}
+
+  {% comment %} Homepage ItemList Schema — hub navigation (opt-in via page.itemlist) {% endcomment %}
+  {% if page.itemlist %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "name": {{ page.itemlist.name | jsonify }},
+    "itemListElement": [
+      {% for item in page.itemlist.items %}
+      {
+        "@type": "ListItem",
+        "position": {{ forloop.index }},
+        "name": {{ item.name | jsonify }},
+        "url": "{{ item.url | absolute_url }}"
       }{% unless forloop.last %},{% endunless %}
       {% endfor %}
     ]
