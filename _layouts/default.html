@@ -104,6 +104,30 @@
   </nav>
   <main style="max-width:900px;margin:0 auto;padding:0 20px 40px;">
     {{ content }}
+
+    {% if page.layout == "post" or page.layout == "page" %}
+    <!-- E-E-A-T: Author bio block -->
+    <aside itemscope itemtype="https://schema.org/Person" style="margin-top:50px;padding:20px;background:#1a1a2e;border-left:4px solid #e94560;border-radius:4px;display:flex;gap:18px;align-items:flex-start;">
+      <img src="{{ '/assets/images/bigtink-editorial-avatar.png' | relative_url }}"
+           alt="Bigtink Editorial Team avatar"
+           itemprop="image"
+           width="80" height="80"
+           style="border-radius:50%;flex-shrink:0;">
+      <div style="flex:1;">
+        <div style="color:#e94560;font-size:0.8em;text-transform:uppercase;letter-spacing:1px;margin-bottom:4px;">Reviewed by</div>
+        <div itemprop="name" style="font-size:1.15em;font-weight:bold;color:#fff;margin-bottom:6px;">Bigtink Editorial Team</div>
+        <div itemprop="jobTitle" style="font-size:0.85em;color:#aaa;margin-bottom:10px;">App publisher · Google Play developer since 2024</div>
+        <div itemprop="description" style="font-size:0.9em;color:#ccc;line-height:1.5;">
+          We're the team behind the official <strong>Pornhub</strong> Android app on Google Play USA (package <code style="background:#0f0f1e;padding:2px 5px;border-radius:3px;font-size:0.85em;">com.crimzleyumy.icrimzuyumy</code>). This hub documents install steps, US-region availability, permissions, and update history straight from the developer — no third-party APK mirrors, no affiliate redirects. Last reviewed: {{ page.date | default: site.time | date: "%B %Y" }}.
+        </div>
+        <div style="margin-top:10px;font-size:0.85em;">
+          <a href="{{ '/pornhub-app-by-bigtink-official/' | relative_url }}" itemprop="url" style="color:#e94560;text-decoration:none;">→ Developer profile</a>
+          &nbsp;·&nbsp;
+          <a href="https://play.google.com/store/apps/details?id=com.crimzleyumy.icrimzuyumy" itemprop="sameAs" rel="noopener" style="color:#e94560;text-decoration:none;">Google Play listing</a>
+        </div>
+      </div>
+    </aside>
+    {% endif %}
   </main>
   <footer style="text-align:center;padding:20px;background:#1a1a2e;color:#888;font-size:0.85em;">
     &copy; 2026 Bigtink. Official Pornhub Android app — live on Google Play USA.
