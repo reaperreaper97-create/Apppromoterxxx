@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ page.lang | default: site.lang | default: 'en-US' }}">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -12,6 +12,21 @@
   {% feed_meta %}
   <link rel="canonical" href="{% if page.canonical_url %}{{ page.canonical_url }}{% else %}{{ page.url | absolute_url }}{% endif %}">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
+  {% comment %} hreflang cluster {% endcomment %}
+  {% if page.translation_of %}
+    {% assign base_url = page.translation_of %}
+    <link rel="alternate" hreflang="en-US" href="{{ base_url | absolute_url }}">
+    <link rel="alternate" hreflang="es" href="{{ '/es' | append: base_url | absolute_url }}">
+    <link rel="alternate" hreflang="de" href="{{ '/de' | append: base_url | absolute_url }}">
+    <link rel="alternate" hreflang="x-default" href="{{ base_url | absolute_url }}">
+  {% elsif page.url contains '/pornhub-app-usa-review/' or page.url contains '/pornhub-app-by-bigtink-official/' %}
+    {% assign base_url = page.url %}
+    <link rel="alternate" hreflang="en-US" href="{{ base_url | absolute_url }}">
+    <link rel="alternate" hreflang="es" href="{{ '/es' | append: base_url | absolute_url }}">
+    <link rel="alternate" hreflang="de" href="{{ '/de' | append: base_url | absolute_url }}">
+    <link rel="alternate" hreflang="x-default" href="{{ base_url | absolute_url }}">
+  {% endif %}
 
   <!-- Schema.org: Organization (Bigtink) — sitewide -->
   <script type="application/ld+json">
