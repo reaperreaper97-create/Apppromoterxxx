@@ -8,6 +8,16 @@
   <meta name="rating" content="adult">
   <meta name="content-rating" content="mature">
   <meta name="RATING" content="RTA-5042-1996-1400-1577-RTA">
+
+  {% comment %} US geo-targeting signals (Bing/Yandex use these; Google primarily uses hreflang) {% endcomment %}
+  <meta name="geo.region" content="US">
+  <meta name="geo.placename" content="United States">
+  <meta name="geo.position" content="39.8283;-98.5795">
+  <meta name="ICBM" content="39.8283, -98.5795">
+  <meta name="language" content="en-US">
+  <meta name="distribution" content="global">
+  <meta name="target_country" content="us">
+
   {% seo %}
   {% feed_meta %}
   <link rel="canonical" href="{% if page.canonical_url %}{{ page.canonical_url }}{% else %}{{ page.url | absolute_url }}{% endif %}">
@@ -26,6 +36,10 @@
     <link rel="alternate" hreflang="es" href="{{ '/es' | append: base_url | absolute_url }}">
     <link rel="alternate" hreflang="de" href="{{ '/de' | append: base_url | absolute_url }}">
     <link rel="alternate" hreflang="x-default" href="{{ base_url | absolute_url }}">
+  {% elsif page.lang == nil or page.lang == 'en-US' or page.lang == 'en' %}
+    {% comment %} Default: all EN pages get explicit en-US hreflang self-reference {% endcomment %}
+    <link rel="alternate" hreflang="en-US" href="{{ page.url | absolute_url }}">
+    <link rel="alternate" hreflang="x-default" href="{{ page.url | absolute_url }}">
   {% endif %}
 
   <!-- Schema.org: Organization (Bigtink) — sitewide -->
@@ -37,9 +51,30 @@
     "alternateName": ["Pornhub by Bigtink", "Bigtink Studios"],
     "url": "https://reaperreaper97-create.github.io/Apppromoterxxx/",
     "description": "Bigtink is the official Google Play developer of the Pornhub Android app (package id com.crimzleyumy.icrimzuyumy), live in the US Play Store from 2026.",
+    "areaServed": {
+      "@type": "Country",
+      "name": "United States",
+      "alternateName": "US"
+    },
     "sameAs": [
       "https://play.google.com/store/apps/details?id=com.crimzleyumy.icrimzuyumy"
     ]
+  }
+  </script>
+
+  <!-- Schema.org: Audience — US adult audience signal (sitewide) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "PeopleAudience",
+    "name": "US adult Android users",
+    "audienceType": "Adults 18+ in the United States",
+    "suggestedMinAge": 18,
+    "geographicArea": {
+      "@type": "Country",
+      "name": "United States",
+      "alternateName": "US"
+    }
   }
   </script>
 
