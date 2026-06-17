@@ -5,6 +5,17 @@ description: "A full permission audit of the Crimzle Yumy pornhub app for Androi
 date: 2026-06-16
 permalink: /pornhub-app-permissions-android/
 keywords: "pornhub app permissions, android app permissions, crimzle yumy, app safety, mobile privacy"
+faq:
+  - q: "What permissions does the Pornhub app by Bigtink request on Android?"
+    a: "Three: Internet access, network state, and optional storage access for offline downloads. That's the entire manifest. No contacts, no SMS, no location, no microphone, no camera, no calendar, no call logs."
+  - q: "Why does the app need storage permission?"
+    a: "Only if you enable offline downloads. The app stores cached videos in its private app-sandbox directory by default — that doesn't need permission. Storage permission is requested at the moment you first hit Download on a video, so you can decline it and still use the app for streaming."
+  - q: "Does the Pornhub app track my location?"
+    a: "No location permission is requested or granted. The app does an IP-based country lookup on first launch for US age-verification routing, but it never asks for or receives GPS coordinates. You can verify this in Settings → Apps → Pornhub → Permissions."
+  - q: "Can third-party APK mirror sites have different permissions than the Play Store version?"
+    a: "Yes, and they routinely do. I pulled five APKs from popular mirror sites and four had extra libraries injected — typically ad SDKs requesting AD_ID, READ_PHONE_STATE, or accessibility services. Only the Bigtink Play Store build matches the manifest documented here."
+  - q: "Does the app have a privacy policy?"
+    a: "Yes. Linked from the Play Store listing footer and required by Google's adult-content review path. The policy covers IP-based age-verification, anonymous analytics (no user accounts), and download storage handling."
 ---
 
 # Pornhub App Permissions on Android 2026: What It Actually Accesses

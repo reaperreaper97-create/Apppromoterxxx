@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pornhub App by Bigtink — Official Developer Profile & App History (2026)"
+title: "Pornhub App by Bigtink — Official Developer Profile (2026)"
 description: "Who is Bigtink, the publisher of the official Pornhub Android app on Google Play USA. App history, the 2026 rebrand from Crimzle Yumy, and what it means for users."
 keywords: "pornhub by bigtink, bigtink android app, official pornhub app developer, pornhub app publisher, bigtink play store, pornhub app history, crimzle yumy rebrand"
 date: 2026-06-16 16:00:00 +0000
