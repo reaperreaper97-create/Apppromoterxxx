@@ -4,4 +4,8 @@
 
 User-agent: *
 Allow: /
+
 Sitemap: https://reaperreaper97-create.github.io/Apppromoterxxx/sitemap.xml
+
+# RSS / Atom feed for crawl discovery and aggregator pickup
+# Atom feed: https://reaperreaper97-create.github.io/Apppromoterxxx/feed.xml
