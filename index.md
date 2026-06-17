@@ -1,8 +1,6 @@
 ---
 layout: home
-title: Pornhub App for Android (USA, 2026) — Official Bigtink Install Guide & Review Hub
-seo:
-  title: "Pornhub App for Android USA 2026 — Bigtink Official Install & Review"
+title: "Pornhub App for Android USA 2026 — Bigtink Official Install"
 description: Honest 2026 review of the official Pornhub app for Android by Bigtink on the Google Play Store USA. Free install on Verizon, T-Mobile, AT&T. Permissions audit, 30-day report, side-by-side with the mobile browser.
 keywords: "pornhub app, pornhub app android, pornhub app usa, pornhub app download, pornhub by bigtink, bigtink android app, adult app android america, google play adult app usa, verizon pornhub app, t-mobile pornhub app, at&t pornhub app"
 itemlist:
@@ -30,6 +28,8 @@ itemlist:
       url: "/pornhub-app-review/"
     - name: "Pornhub App — 48-Second Video Walkthrough (2026)"
       url: "/crimzle-yumy-video-review/"
+    - name: "Pornhub App USA Age Verification 2026 — State-by-State (Texas, Utah, Florida, NC, VA, CA, NY)"
+      url: "/pornhub-app-usa-age-verification-state-by-state/"
 ---
 
 # Pornhub App for Android (USA, 2026) — Official Install Guide & Review Hub
