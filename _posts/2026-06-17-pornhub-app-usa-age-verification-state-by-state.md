@@ -4,7 +4,7 @@ title: "Pornhub App USA Age Verification 2026 — State-by-State Guide (Texas, U
 seo:
   title: "Pornhub App USA Age Verification 2026 — State Guide"
 description: "How the official Pornhub Android app by Bigtink handles US state age-verification laws in 2026 — Texas HB 1181, Utah SB 287, Virginia SB 1515, North Carolina HB 8, Florida HB 3, plus California and New York status. What changes per state, what's the same, what to do if the app says 'not available in your region'."
-date: 2026-06-17 22:00:00 -0700
+date: 2026-06-17 12:00:00 -0700
 permalink: /pornhub-app-usa-age-verification-state-by-state/
 lang: en-US
 keywords: "pornhub app age verification, pornhub app texas, pornhub app utah, pornhub app virginia, pornhub app florida, pornhub app north carolina, pornhub app california, pornhub app new york, adult app age verification usa, hb 1181 pornhub, sb 287 utah pornhub"
