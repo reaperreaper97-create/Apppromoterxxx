@@ -12,7 +12,7 @@ keywords: "pornhub app safety, pornhub android security, adult app safety, pornh
 
 The hardest part about searching for a **pornhub app** on Android isn't finding one — it's finding one that's actually safe. Most of the top APK results are either modded clients from third-party stores, wrapper apps that don't actually stream anything, or fake listings that disappear after a few weeks. The **official Pornhub app by Bigtink** is the only entry in the category that passes the same baseline as any other app on Google Play US, so I installed it on a clean device and ran it for 60 days to see what the actual security posture looks like.
 
-This is a long-form safety writeup, not a quick verdict. The full review with install steps lives over on the [main hub](/) and the [US install review](/pornhub-app-usa-review/).
+This is a long-form safety writeup, not a quick verdict. The full review with install steps lives over on the [main hub]({{ '/' | relative_url }}) and the [US install review]({{ '/pornhub-app-usa-review/' | relative_url }}).
 
 ## What I checked
 
@@ -77,19 +77,19 @@ These are the reasons those APKs aren't in Google Play, and why the only safe wa
 
 **The official Pornhub app by Bigtink is safer than every unofficial APK I tested.** It does what it says, doesn't ask for permissions it doesn't need, doesn't beacon to data brokers, and ships through Google's review process. That's the baseline I'd want for any app in this category, and the bar is low enough that most competitors don't clear it.
 
-If you want a broader feature comparison or a step-by-step install guide, the [main US review](/pornhub-app-usa-review/) covers both.
+If you want a broader feature comparison or a step-by-step install guide, the [main US review]({{ '/pornhub-app-usa-review/' | relative_url }}) covers both.
 
 (Note: this app was previously listed as Crimzle Yumy — same Play Store slot, rebranded to Pornhub by Bigtink in 2026. Package id `com.crimzleyumy.icrimzuyumy` is the legacy developer id.)
 
 ## Related on this site
 
-- **[Main hub](/)** — Official Bigtink install guide & US review center
-- **[Full US review](/pornhub-app-usa-review/)** — 7-day usage breakdown
-- **[Step-by-step install walkthrough](/install-pornhub-app-android/)** — Google Play US install
-- **[Pornhub app vs mobile browser](/pornhub-app-vs-browser/)** — performance benchmark
-- **[Permissions deep-dive](/pornhub-app-permissions-android/)** — what every permission does and why
-- **[30-day usage review](/pornhub-app-30-day-review/)** — long-term real-world test
-- **[Pornhub by Bigtink — developer profile](/pornhub-app-by-bigtink-official/)** — who Bigtink is, app history
-- **[Google Play US listing details](/pornhub-app-android-google-play-usa-2026/)** — what the store page shows
-- **[Android vs iPhone Safari comparison](/pornhub-app-android-vs-iphone-safari/)** — cross-platform breakdown
-- **[Video walkthrough](/crimzle-yumy-video-review/)** — 48-second screen recording
+- **[Main hub]({{ '/' | relative_url }})** — Official Bigtink install guide & US review center
+- **[Full US review]({{ '/pornhub-app-usa-review/' | relative_url }})** — 7-day usage breakdown
+- **[Step-by-step install walkthrough]({{ '/install-pornhub-app-android/' | relative_url }})** — Google Play US install
+- **[Pornhub app vs mobile browser]({{ '/pornhub-app-vs-browser/' | relative_url }})** — performance benchmark
+- **[Permissions deep-dive]({{ '/pornhub-app-permissions-android/' | relative_url }})** — what every permission does and why
+- **[30-day usage review]({{ '/pornhub-app-30-day-review/' | relative_url }})** — long-term real-world test
+- **[Pornhub by Bigtink — developer profile]({{ '/pornhub-app-by-bigtink-official/' | relative_url }})** — who Bigtink is, app history
+- **[Google Play US listing details]({{ '/pornhub-app-android-google-play-usa-2026/' | relative_url }})** — what the store page shows
+- **[Android vs iPhone Safari comparison]({{ '/pornhub-app-android-vs-iphone-safari/' | relative_url }})** — cross-platform breakdown
+- **[Video walkthrough]({{ '/crimzle-yumy-video-review/' | relative_url }})** — 48-second screen recording

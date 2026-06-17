@@ -34,7 +34,7 @@ The current US Play Store listing is straightforward once you know what to look 
 
 It's a free download with no upfront paywall and no subscription gate inside the install flow. The age rating is the standard Play Store mature rating, and the app will prompt you for an age confirmation on first launch the same way most adult-oriented apps do.
 
-For a deeper walkthrough of what the app actually does on the device side, our [Pornhub app USA review](/pornhub-app-usa-review/) covers performance on US carriers, and the [permissions writeup](/pornhub-app-permissions-android/) breaks down exactly what the app asks for and why.
+For a deeper walkthrough of what the app actually does on the device side, our [Pornhub app USA review]({{ '/pornhub-app-usa-review/' | relative_url }}) covers performance on US carriers, and the [permissions writeup]({{ '/pornhub-app-permissions-android/' | relative_url }}) breaks down exactly what the app asks for and why.
 
 ## App History — From Crimzle Yumy to Pornhub
 
@@ -42,7 +42,7 @@ Here's where the confusion usually starts. Earlier in the app's life, this same 
 
 In early 2026 the slot was rebranded. The name on the listing changed to Pornhub, the icon and screenshots were swapped, the store description was rewritten, and the content category was updated to reflect the adult audience. What didn't change was the package id. It stayed `com.crimzleyumy.icrimzuyumy` because that's the unique identifier Google Play uses to track an app across updates, and changing it would have wiped the install history, reviews, and update channel for every existing user.
 
-This is the standard Play Store playbook when a publisher rebrands an app rather than launching a new one from scratch. The package id is tied to the original product name for technical reasons, not because the app is still pretending to be a candy game. If you want to see what the original product looked like and read user impressions from that era, the [Crimzle Yumy video review](/crimzle-yumy-video-review/) on this site walks through it.
+This is the standard Play Store playbook when a publisher rebrands an app rather than launching a new one from scratch. The package id is tied to the original product name for technical reasons, not because the app is still pretending to be a candy game. If you want to see what the original product looked like and read user impressions from that era, the [Crimzle Yumy video review]({{ '/crimzle-yumy-video-review/' | relative_url }}) on this site walks through it.
 
 The rebrand was handled inside Bigtink's developer account, which is why developer continuity is the most reliable signal that you're looking at the same publisher, not an impostor that managed to grab an old package name.
 
@@ -64,7 +64,7 @@ Three checks, in order, get you a clean install:
 
 If all three line up, you're installing the same Pornhub app Bigtink publishes for US users. If any one of those doesn't match — different developer, different package id, or a link that bounces off Google Play — close it and start over from the official Play Store search.
 
-The full install walkthrough for first-time users is in our [Android install guide](/pornhub-app-android-google-play-usa-2026/).
+The full install walkthrough for first-time users is in our [Android install guide]({{ '/pornhub-app-android-google-play-usa-2026/' | relative_url }}).
 
 ## Quick Facts Table
 
@@ -101,7 +101,7 @@ The official Play Store listing for the Pornhub app by Bigtink is here:
 
 [https://play.google.com/store/apps/details?id=com.crimzleyumy.icrimzuyumy](https://play.google.com/store/apps/details?id=com.crimzleyumy.icrimzuyumy)
 
-For more reading on this site, the [home page](/) lists every guide, and the [30-day review](/pornhub-app-usa-review/) covers long-term use on US carriers.
+For more reading on this site, the [home page]({{ '/' | relative_url }}) lists every guide, and the [30-day review]({{ '/pornhub-app-usa-review/' | relative_url }}) covers long-term use on US carriers.
 
 ## Related Searches
 
@@ -118,14 +118,14 @@ For more reading on this site, the [home page](/) lists every guide, and the [30
 
 ## Related on this site
 
-- **[Main hub](/)** — Official Bigtink install guide & US review center
-- **[Full US install review](/pornhub-app-usa-review/)** — 7-day usage breakdown on Verizon/T-Mobile/AT&T
-- **[Step-by-step install walkthrough](/install-pornhub-app-android/)** — Google Play US install
-- **[Google Play US listing details](/pornhub-app-android-google-play-usa-2026/)** — what the store page shows
-- **[60-day safety analysis](/pornhub-app-android-2026-safety/)** — packet capture, permission audit, Play Protect
-- **[Permissions deep-dive](/pornhub-app-permissions-android/)** — what every permission does and why
-- **[Pornhub app vs mobile browser](/pornhub-app-vs-browser/)** — performance benchmark
-- **[30-day usage review](/pornhub-app-30-day-review/)** — long-term real-world test
-- **[Android vs iPhone Safari](/pornhub-app-android-vs-iphone-safari/)** — cross-platform comparison
-- **[Video walkthrough](/crimzle-yumy-video-review/)** — 48-second screen recording of the live app
-- **[Pornhub app review](/pornhub-app-review/)** — independent 2026 review of the Bigtink app
+- **[Main hub]({{ '/' | relative_url }})** — Official Bigtink install guide & US review center
+- **[Full US install review]({{ '/pornhub-app-usa-review/' | relative_url }})** — 7-day usage breakdown on Verizon/T-Mobile/AT&T
+- **[Step-by-step install walkthrough]({{ '/install-pornhub-app-android/' | relative_url }})** — Google Play US install
+- **[Google Play US listing details]({{ '/pornhub-app-android-google-play-usa-2026/' | relative_url }})** — what the store page shows
+- **[60-day safety analysis]({{ '/pornhub-app-android-2026-safety/' | relative_url }})** — packet capture, permission audit, Play Protect
+- **[Permissions deep-dive]({{ '/pornhub-app-permissions-android/' | relative_url }})** — what every permission does and why
+- **[Pornhub app vs mobile browser]({{ '/pornhub-app-vs-browser/' | relative_url }})** — performance benchmark
+- **[30-day usage review]({{ '/pornhub-app-30-day-review/' | relative_url }})** — long-term real-world test
+- **[Android vs iPhone Safari]({{ '/pornhub-app-android-vs-iphone-safari/' | relative_url }})** — cross-platform comparison
+- **[Video walkthrough]({{ '/crimzle-yumy-video-review/' | relative_url }})** — 48-second screen recording of the live app
+- **[Pornhub app review]({{ '/pornhub-app-review/' | relative_url }})** — independent 2026 review of the Bigtink app

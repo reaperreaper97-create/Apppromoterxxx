@@ -129,14 +129,14 @@ Install once, sign in, and you're done. Updates roll out automatically through P
 
 ## Related on this site
 
-- **[Main hub](/)** — Official Bigtink install guide & US review center
-- **[Full US install review](/pornhub-app-usa-review/)** — 7-day usage breakdown on Verizon/T-Mobile/AT&T
-- **[Step-by-step install walkthrough](/install-pornhub-app-android/)** — Google Play US install
-- **[Pornhub by Bigtink — developer profile](/pornhub-app-by-bigtink-official/)** — who Bigtink is, app history, 2026 rebrand
-- **[60-day safety analysis](/pornhub-app-android-2026-safety/)** — packet capture, permission audit, Play Protect
-- **[Permissions deep-dive](/pornhub-app-permissions-android/)** — what every permission does and why
-- **[Pornhub app vs mobile browser](/pornhub-app-vs-browser/)** — performance benchmark
-- **[30-day usage review](/pornhub-app-30-day-review/)** — long-term real-world test
-- **[Android vs iPhone Safari](/pornhub-app-android-vs-iphone-safari/)** — cross-platform comparison
-- **[Video walkthrough](/crimzle-yumy-video-review/)** — 48-second screen recording of the live app
-- **[Pornhub app review](/pornhub-app-review/)** — independent 2026 review of the Bigtink app
+- **[Main hub]({{ '/' | relative_url }})** — Official Bigtink install guide & US review center
+- **[Full US install review]({{ '/pornhub-app-usa-review/' | relative_url }})** — 7-day usage breakdown on Verizon/T-Mobile/AT&T
+- **[Step-by-step install walkthrough]({{ '/install-pornhub-app-android/' | relative_url }})** — Google Play US install
+- **[Pornhub by Bigtink — developer profile]({{ '/pornhub-app-by-bigtink-official/' | relative_url }})** — who Bigtink is, app history, 2026 rebrand
+- **[60-day safety analysis]({{ '/pornhub-app-android-2026-safety/' | relative_url }})** — packet capture, permission audit, Play Protect
+- **[Permissions deep-dive]({{ '/pornhub-app-permissions-android/' | relative_url }})** — what every permission does and why
+- **[Pornhub app vs mobile browser]({{ '/pornhub-app-vs-browser/' | relative_url }})** — performance benchmark
+- **[30-day usage review]({{ '/pornhub-app-30-day-review/' | relative_url }})** — long-term real-world test
+- **[Android vs iPhone Safari]({{ '/pornhub-app-android-vs-iphone-safari/' | relative_url }})** — cross-platform comparison
+- **[Video walkthrough]({{ '/crimzle-yumy-video-review/' | relative_url }})** — 48-second screen recording of the live app
+- **[Pornhub app review]({{ '/pornhub-app-review/' | relative_url }})** — independent 2026 review of the Bigtink app

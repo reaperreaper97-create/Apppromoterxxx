@@ -9,11 +9,11 @@ keywords: "pornhub app long-term review, pornhub by bigtink 30 days, pornhub and
 
 # Pornhub App After 30 Days: What Still Works, What Broke, What I'd Change
 
-Most app reviews are written on day one. You install, you play with it for an hour, you write a take, and you move on. That's how the [first hub review](/) on this site worked, and how the [WordPress feature review](https://promoterapp2026-evmbk.wordpress.com/2026/06/08/pornhub-app-android-2026-review/) was structured. After 30 days of continuous use, the picture changes. The new-player shine wears off and the real strengths and weaknesses show up. This is the long-term report.
+Most app reviews are written on day one. You install, you play with it for an hour, you write a take, and you move on. That's how the [first hub review]({{ '/' | relative_url }}) on this site worked, and how the [WordPress feature review](https://promoterapp2026-evmbk.wordpress.com/2026/06/08/pornhub-app-android-2026-review/) was structured. After 30 days of continuous use, the picture changes. The new-player shine wears off and the real strengths and weaknesses show up. This is the long-term report.
 
 ## What I did
 
-- Installed the **pornhub app** on a Pixel 7 on May 16, 2026. Same phone I used for the [vs browser benchmark](/pornhub-app-vs-browser/).
+- Installed the **pornhub app** on a Pixel 7 on May 16, 2026. Same phone I used for the [vs browser benchmark]({{ '/pornhub-app-vs-browser/' | relative_url }}).
 - Used it as my default streaming app for 30 days, multiple sessions per day.
 - Captured: crash log via `adb logcat`, battery stats via `dumpsys batterystats`, network via mitmproxy, storage via `du`, and version history via Play Store.
 - No reset or cleanup during the test. This is real-world usage, including the app updates that landed during the month.
@@ -59,7 +59,7 @@ Over 30 days, total network consumption by the **pornhub app**:
 - Average per session (45 min, mostly 720p): 580 MB
 - Background data (closed app): 0 MB
 
-The "background data: 0 MB" number is the one I was specifically watching. After the [permissions audit](/pornhub-app-permissions-android/), I expected this to be near zero, and it is. The app is well-behaved when not in the foreground.
+The "background data: 0 MB" number is the one I was specifically watching. After the [permissions audit]({{ '/pornhub-app-permissions-android/' | relative_url }}), I expected this to be near zero, and it is. The app is well-behaved when not in the foreground.
 
 The one thing I noticed: the app occasionally does a small (~50 KB) request to an analytics endpoint, even when fully closed. This is the standard "ping for new content" that almost every streaming app does, and it's harmless. It does not include any user-identifying information, just an installation token. If you want to block even this, the app respects the Android system "restrict background data" toggle, and the analytics endpoint can be blocked at the DNS level without breaking playback.
 
@@ -114,25 +114,25 @@ It's not the perfect app. The crash I hit on 90-minute sessions was a real bug, 
 
 ## Where to read more
 
-- **[Main hub](/)** — central page with all reviews
-- **[60-day safety analysis](/pornhub-app-android-2026-safety/)** — full permission and network audit
-- **[Pornhub app vs browser](/pornhub-app-vs-browser/)** — performance benchmark
-- **[Permissions explained](/pornhub-app-permissions-android/)** — what the app actually accesses
-- **[Install walkthrough](/install-pornhub-app-android/)** — step-by-step Play Store install
+- **[Main hub]({{ '/' | relative_url }})** — central page with all reviews
+- **[60-day safety analysis]({{ '/pornhub-app-android-2026-safety/' | relative_url }})** — full permission and network audit
+- **[Pornhub app vs browser]({{ '/pornhub-app-vs-browser/' | relative_url }})** — performance benchmark
+- **[Permissions explained]({{ '/pornhub-app-permissions-android/' | relative_url }})** — what the app actually accesses
+- **[Install walkthrough]({{ '/install-pornhub-app-android/' | relative_url }})** — step-by-step Play Store install
 - **[WordPress feature review](https://promoterapp2026-evmbk.wordpress.com/2026/06/08/pornhub-app-android-2026-review/)** — feature breakdown
 
 (Note: this app was previously listed as Crimzle Yumy — same Play Store slot, rebranded to Pornhub by Bigtink in 2026.)
 
 ## Related on this site
 
-- **[Main hub](/)** — Official Bigtink install guide & US review center
-- **[Full US install review](/pornhub-app-usa-review/)** — 7-day usage breakdown on Verizon/T-Mobile/AT&T
-- **[Step-by-step install walkthrough](/install-pornhub-app-android/)** — Google Play US install
-- **[Pornhub by Bigtink — developer profile](/pornhub-app-by-bigtink-official/)** — who Bigtink is, app history, 2026 rebrand
-- **[Google Play US listing details](/pornhub-app-android-google-play-usa-2026/)** — what the store page shows
-- **[60-day safety analysis](/pornhub-app-android-2026-safety/)** — packet capture, permission audit, Play Protect
-- **[Permissions deep-dive](/pornhub-app-permissions-android/)** — what every permission does and why
-- **[Pornhub app vs mobile browser](/pornhub-app-vs-browser/)** — performance benchmark
-- **[Android vs iPhone Safari](/pornhub-app-android-vs-iphone-safari/)** — cross-platform comparison
-- **[Video walkthrough](/crimzle-yumy-video-review/)** — 48-second screen recording of the live app
-- **[Pornhub app review](/pornhub-app-review/)** — independent 2026 review of the Bigtink app
+- **[Main hub]({{ '/' | relative_url }})** — Official Bigtink install guide & US review center
+- **[Full US install review]({{ '/pornhub-app-usa-review/' | relative_url }})** — 7-day usage breakdown on Verizon/T-Mobile/AT&T
+- **[Step-by-step install walkthrough]({{ '/install-pornhub-app-android/' | relative_url }})** — Google Play US install
+- **[Pornhub by Bigtink — developer profile]({{ '/pornhub-app-by-bigtink-official/' | relative_url }})** — who Bigtink is, app history, 2026 rebrand
+- **[Google Play US listing details]({{ '/pornhub-app-android-google-play-usa-2026/' | relative_url }})** — what the store page shows
+- **[60-day safety analysis]({{ '/pornhub-app-android-2026-safety/' | relative_url }})** — packet capture, permission audit, Play Protect
+- **[Permissions deep-dive]({{ '/pornhub-app-permissions-android/' | relative_url }})** — what every permission does and why
+- **[Pornhub app vs mobile browser]({{ '/pornhub-app-vs-browser/' | relative_url }})** — performance benchmark
+- **[Android vs iPhone Safari]({{ '/pornhub-app-android-vs-iphone-safari/' | relative_url }})** — cross-platform comparison
+- **[Video walkthrough]({{ '/crimzle-yumy-video-review/' | relative_url }})** — 48-second screen recording of the live app
+- **[Pornhub app review]({{ '/pornhub-app-review/' | relative_url }})** — independent 2026 review of the Bigtink app

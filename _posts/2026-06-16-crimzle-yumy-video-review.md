@@ -37,16 +37,16 @@ A short walkthrough is more useful than screenshots for this category because th
 
 ## Long-Form Reviews
 
-If the video sells you on trying the app and you want the deeper analysis — permissions audit, 30-day battery and crash report, install walkthrough, side-by-side with the mobile site — the long-form reviews are linked from the [hub page](/):
+If the video sells you on trying the app and you want the deeper analysis — permissions audit, 30-day battery and crash report, install walkthrough, side-by-side with the mobile site — the long-form reviews are linked from the [hub page]({{ '/' | relative_url }}):
 
-- [Pornhub App USA Review 2026 — Best Adult Android App for American Users](/pornhub-app-usa-review/)
-- [Pornhub App by Bigtink — Official Developer Profile & App History](/pornhub-app-by-bigtink-official/)
-- [Pornhub App on Google Play Store USA 2026 — Step-by-Step Install](/pornhub-app-android-google-play-usa-2026/)
-- [60-Day Safety Analysis: The Pornhub App vs the Third-Party APK World](/pornhub-app-android-2026-safety/)
-- [Pornhub App Permissions on Android 2026: What It Actually Accesses](/pornhub-app-permissions-android/)
-- [Pornhub App After 30 Days: What Still Works, What Broke, What I'd Change](/pornhub-app-30-day-review/)
-- [Pornhub App vs Browser: Which Is Actually Faster on Android](/pornhub-app-vs-browser/)
-- [Pornhub App Install Walkthrough for Android](/install-pornhub-app-android/)
+- [Pornhub App USA Review 2026 — Best Adult Android App for American Users]({{ '/pornhub-app-usa-review/' | relative_url }})
+- [Pornhub App by Bigtink — Official Developer Profile & App History]({{ '/pornhub-app-by-bigtink-official/' | relative_url }})
+- [Pornhub App on Google Play Store USA 2026 — Step-by-Step Install]({{ '/pornhub-app-android-google-play-usa-2026/' | relative_url }})
+- [60-Day Safety Analysis: The Pornhub App vs the Third-Party APK World]({{ '/pornhub-app-android-2026-safety/' | relative_url }})
+- [Pornhub App Permissions on Android 2026: What It Actually Accesses]({{ '/pornhub-app-permissions-android/' | relative_url }})
+- [Pornhub App After 30 Days: What Still Works, What Broke, What I'd Change]({{ '/pornhub-app-30-day-review/' | relative_url }})
+- [Pornhub App vs Browser: Which Is Actually Faster on Android]({{ '/pornhub-app-vs-browser/' | relative_url }})
+- [Pornhub App Install Walkthrough for Android]({{ '/install-pornhub-app-android/' | relative_url }})
 
 ## Install the App
 
@@ -65,14 +65,14 @@ The app is free to install from Google Play USA. No subscription is required for
 
 ## Related on this site
 
-- **[Main hub](/)** — Official Bigtink install guide & US review center
-- **[Full US install review](/pornhub-app-usa-review/)** — 7-day usage breakdown on Verizon/T-Mobile/AT&T
-- **[Step-by-step install walkthrough](/install-pornhub-app-android/)** — Google Play US install
-- **[Pornhub by Bigtink — developer profile](/pornhub-app-by-bigtink-official/)** — who Bigtink is, app history, 2026 rebrand
-- **[Google Play US listing details](/pornhub-app-android-google-play-usa-2026/)** — what the store page shows
-- **[60-day safety analysis](/pornhub-app-android-2026-safety/)** — packet capture, permission audit, Play Protect
-- **[Permissions deep-dive](/pornhub-app-permissions-android/)** — what every permission does and why
-- **[Pornhub app vs mobile browser](/pornhub-app-vs-browser/)** — performance benchmark
-- **[30-day usage review](/pornhub-app-30-day-review/)** — long-term real-world test
-- **[Android vs iPhone Safari](/pornhub-app-android-vs-iphone-safari/)** — cross-platform comparison
-- **[Pornhub app review](/pornhub-app-review/)** — independent 2026 review of the Bigtink app
+- **[Main hub]({{ '/' | relative_url }})** — Official Bigtink install guide & US review center
+- **[Full US install review]({{ '/pornhub-app-usa-review/' | relative_url }})** — 7-day usage breakdown on Verizon/T-Mobile/AT&T
+- **[Step-by-step install walkthrough]({{ '/install-pornhub-app-android/' | relative_url }})** — Google Play US install
+- **[Pornhub by Bigtink — developer profile]({{ '/pornhub-app-by-bigtink-official/' | relative_url }})** — who Bigtink is, app history, 2026 rebrand
+- **[Google Play US listing details]({{ '/pornhub-app-android-google-play-usa-2026/' | relative_url }})** — what the store page shows
+- **[60-day safety analysis]({{ '/pornhub-app-android-2026-safety/' | relative_url }})** — packet capture, permission audit, Play Protect
+- **[Permissions deep-dive]({{ '/pornhub-app-permissions-android/' | relative_url }})** — what every permission does and why
+- **[Pornhub app vs mobile browser]({{ '/pornhub-app-vs-browser/' | relative_url }})** — performance benchmark
+- **[30-day usage review]({{ '/pornhub-app-30-day-review/' | relative_url }})** — long-term real-world test
+- **[Android vs iPhone Safari]({{ '/pornhub-app-android-vs-iphone-safari/' | relative_url }})** — cross-platform comparison
+- **[Pornhub app review]({{ '/pornhub-app-review/' | relative_url }})** — independent 2026 review of the Bigtink app
