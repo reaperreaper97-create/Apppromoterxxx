@@ -170,3 +170,9 @@ For the full installation walkthrough, see the [Pornhub App Install Walkthrough]
 - **[Android vs iPhone Safari]({{ '/pornhub-app-android-vs-iphone-safari/' | relative_url }})** — cross-platform comparison
 - **[Video walkthrough]({{ '/crimzle-yumy-video-review/' | relative_url }})** — 48-second screen recording of the live app
 - **[Pornhub app review]({{ '/pornhub-app-review/' | relative_url }})** — independent 2026 review of the Bigtink app
+
+## External Resources
+
+- **[Pornhub App Install Guide on Android Apps Spot](https://reaperreaper97-create.github.io/androidappspot/pornhub-app-android-install-guide-us-2026/)** — third-party walkthrough with state-by-state notes
+- **[Android age-verification laws by US state](https://reaperreaper97-create.github.io/androidappspot/android-age-verification-laws-us-states-2026/)** — coverage of TX, UT, VA, FL, MS, NC, AR, MT, IN, LA, CA
+- **[How to side-load APKs safely on Android](https://reaperreaper97-create.github.io/androidappspot/how-to-sideload-apk-android-safely-2026/)** — checksum verification, permission audit, source reputation
