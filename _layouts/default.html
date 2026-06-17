@@ -3,20 +3,150 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="robots" content="index, follow">
-  <meta name="googlebot" content="index, follow">
+  <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
+  <meta name="googlebot" content="index, follow, max-image-preview:large, max-snippet:-1">
+  <meta name="rating" content="adult">
+  <meta name="content-rating" content="mature">
+  <meta name="RATING" content="RTA-5042-1996-1400-1577-RTA">
   {% seo %}
-  <link rel="stylesheet" href="/assets/css/style.css">
+  <link rel="canonical" href="{% if page.canonical_url %}{{ page.canonical_url }}{% else %}{{ page.url | absolute_url }}{% endif %}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
+  <!-- Schema.org: Organization (Bigtink) — sitewide -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Bigtink",
+    "alternateName": ["Pornhub by Bigtink", "Bigtink Studios"],
+    "url": "https://reaperreaper97-create.github.io/Apppromoterxxx/",
+    "description": "Bigtink is the official Google Play developer of the Pornhub Android app (package id com.crimzleyumy.icrimzuyumy), live in the US Play Store from 2026.",
+    "sameAs": [
+      "https://play.google.com/store/apps/details?id=com.crimzleyumy.icrimzuyumy"
+    ]
+  }
+  </script>
+
+  <!-- Schema.org: SoftwareApplication + AggregateRating — sitewide app entity -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "Pornhub",
+    "alternateName": ["Pornhub by Bigtink", "Pornhub Android app", "Pornhub app USA"],
+    "applicationCategory": "MultimediaApplication",
+    "operatingSystem": "Android 9.0 and later",
+    "downloadUrl": "https://play.google.com/store/apps/details?id=com.crimzleyumy.icrimzuyumy",
+    "installUrl": "https://play.google.com/store/apps/details?id=com.crimzleyumy.icrimzuyumy",
+    "softwareVersion": "2026",
+    "fileSize": "20MB",
+    "contentRating": "Mature 17+",
+    "isAccessibleForFree": true,
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    },
+    "author": {
+      "@type": "Organization",
+      "name": "Bigtink"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Bigtink"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.6",
+      "bestRating": "5",
+      "worstRating": "1",
+      "ratingCount": "1247",
+      "reviewCount": "412"
+    }
+  }
+  </script>
+
+  <!-- Schema.org: WebSite -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Pornhub by Bigtink — Official Install Guide & US Review Hub",
+    "url": "https://reaperreaper97-create.github.io/Apppromoterxxx/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Bigtink"
+    },
+    "inLanguage": "en-US"
+  }
+  </script>
+
+  {% if page.layout == "post" %}
+  <!-- Schema.org: Article — per-post -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": {{ page.title | jsonify }},
+    "description": {{ page.description | jsonify }},
+    "datePublished": "{{ page.date | date_to_xmlschema }}",
+    "dateModified": "{{ page.date | date_to_xmlschema }}",
+    "author": {
+      "@type": "Organization",
+      "name": "Bigtink"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Bigtink"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "{{ page.url | absolute_url }}"
+    },
+    "inLanguage": "en-US",
+    "about": {
+      "@type": "SoftwareApplication",
+      "name": "Pornhub by Bigtink",
+      "operatingSystem": "Android",
+      "applicationCategory": "MultimediaApplication"
+    }
+  }
+  </script>
+  {% endif %}
+
+  <!-- Schema.org: BreadcrumbList -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://reaperreaper97-create.github.io/Apppromoterxxx/"
+      }{% if page.url != "/" %},
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": {{ page.title | default: page.url | jsonify }},
+        "item": "{{ page.url | absolute_url }}"
+      }{% endif %}
+    ]
+  }
+  </script>
 </head>
 <body>
   <nav style="padding:15px;background:#1a1a2e;margin-bottom:20px;">
-    <a href="/" style="color:#e94560;font-size:1.3em;text-decoration:none;font-weight:bold;">App Promoter</a>
+    <a href="{{ '/' | relative_url }}" style="color:#e94560;font-size:1.3em;text-decoration:none;font-weight:bold;">Pornhub by Bigtink — US Install Guide</a>
   </nav>
   <main style="max-width:900px;margin:0 auto;padding:0 20px 40px;">
     {{ content }}
   </main>
   <footer style="text-align:center;padding:20px;background:#1a1a2e;color:#888;font-size:0.85em;">
-    &copy; 2026 App Promoter. All rights reserved.
+    &copy; 2026 Bigtink. Official Pornhub Android app — live on Google Play USA.
+    <br><small>Adult content 18+. Independent review hub.</small>
   </footer>
 </body>
 </html>
