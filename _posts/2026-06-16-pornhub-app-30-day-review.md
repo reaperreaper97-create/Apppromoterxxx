@@ -4,7 +4,7 @@ title: "Pornhub App After 30 Days: What Still Works, What Broke, What I'd Change
 description: "A 30-day long-term review of the official Pornhub Android app by Bigtink (USA). Crash log, battery impact, network usage on Verizon/T-Mobile/AT&T, update cadence, and what changed between install and day 30."
 date: 2026-06-16
 permalink: /pornhub-app-30-day-review/
-keywords: "pornhub app long-term review, pornhub by bigtink 30 days, pornhub android app review, pornhub app usa, mobile streaming"
+keywords: "pornhub app long-term review, bigtink pornhub app 30 days, pornhub android app review, pornhub app usa, mobile streaming"
 faq:
   - q: "Did the Pornhub app crash often during 30 days of daily use?"
     a: "Twice. Both crashes happened on day 4 when the app was backgrounded during a Chromecast handoff and lost session state. After the v2026.3 update on day 9, zero crashes for the remaining three weeks across a Pixel 8 and a Galaxy S23."
@@ -139,7 +139,7 @@ It's not the perfect app. The crash I hit on 90-minute sessions was a real bug, 
 - **[Main hub]({{ '/' | relative_url }})** — Official Bigtink install guide & US review center
 - **[Full US install review]({{ '/pornhub-app-usa-review/' | relative_url }})** — 7-day usage breakdown on Verizon/T-Mobile/AT&T
 - **[Step-by-step install walkthrough]({{ '/install-pornhub-app-android/' | relative_url }})** — Google Play US install
-- **[Pornhub by Bigtink — developer profile]({{ '/pornhub-app-by-bigtink-official/' | relative_url }})** — who Bigtink is, app history, 2026 rebrand
+- **[Bigtink Pornhub App — developer profile]({{ '/pornhub-app-by-bigtink-official/' | relative_url }})** — who Bigtink is, app history, 2026 rebrand
 - **[Google Play US listing details]({{ '/pornhub-app-android-google-play-usa-2026/' | relative_url }})** — what the store page shows
 - **[60-day safety analysis]({{ '/pornhub-app-android-2026-safety/' | relative_url }})** — packet capture, permission audit, Play Protect
 - **[Permissions deep-dive]({{ '/pornhub-app-permissions-android/' | relative_url }})** — what every permission does and why

@@ -2,13 +2,13 @@
 layout: home
 title: "Pornhub App for Android USA 2026 — Bigtink Official Install"
 description: Honest 2026 review of the official Pornhub app for Android by Bigtink on the Google Play Store USA. Free install on Verizon, T-Mobile, AT&T. Permissions audit, 30-day report, side-by-side with the mobile browser.
-keywords: "pornhub app, pornhub app android, pornhub app usa, pornhub app download, pornhub by bigtink, bigtink android app, adult app android america, google play adult app usa, verizon pornhub app, t-mobile pornhub app, at&t pornhub app"
+keywords: "pornhub app, pornhub app android, bigtink pornhub app, bigtink android app, pornhub app download, adult app android america, google play adult app usa, verizon pornhub app, t-mobile pornhub app, at&t pornhub app"
 itemlist:
-  name: "Pornhub App by Bigtink — Independent Review Hub (USA, 2026)"
+  name: "Bigtink Pornhub App — Independent Review Hub (USA, 2026)"
   items:
     - name: "Pornhub App USA Review 2026 — Best Adult Android App for American Users"
       url: "/pornhub-app-usa-review/"
-    - name: "Pornhub App by Bigtink — Official Developer Profile & App History"
+    - name: "Bigtink Pornhub App — Official Developer Profile & App History"
       url: "/pornhub-app-by-bigtink-official/"
     - name: "Pornhub App on Google Play Store USA 2026 — Step-by-Step Install"
       url: "/pornhub-app-android-google-play-usa-2026/"
@@ -161,7 +161,7 @@ For the full installation walkthrough, see the [Pornhub App Install Walkthrough]
 
 - **[Full US install review]({{ '/pornhub-app-usa-review/' | relative_url }})** — 7-day usage breakdown on Verizon/T-Mobile/AT&T
 - **[Step-by-step install walkthrough]({{ '/install-pornhub-app-android/' | relative_url }})** — Google Play US install
-- **[Pornhub by Bigtink — developer profile]({{ '/pornhub-app-by-bigtink-official/' | relative_url }})** — who Bigtink is, app history, 2026 rebrand
+- **[Bigtink Pornhub App — developer profile]({{ '/pornhub-app-by-bigtink-official/' | relative_url }})** — who Bigtink is, app history, 2026 rebrand
 - **[Google Play US listing details]({{ '/pornhub-app-android-google-play-usa-2026/' | relative_url }})** — what the store page shows
 - **[60-day safety analysis]({{ '/pornhub-app-android-2026-safety/' | relative_url }})** — packet capture, permission audit, Play Protect
 - **[Permissions deep-dive]({{ '/pornhub-app-permissions-android/' | relative_url }})** — what every permission does and why

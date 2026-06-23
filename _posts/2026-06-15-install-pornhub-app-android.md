@@ -21,8 +21,8 @@ howto:
   steps:
     - name: "Open the Google Play Store"
       text: "Tap the Play Store icon on your home screen or app drawer. If the Play Store is not installed, your device runs a non-Google build of Android and this walkthrough does not apply."
-    - name: "Search for Pornhub or Pornhub by Bigtink"
-      text: "In the Play Store search bar, type Pornhub or Pornhub by Bigtink. Tap the listing titled Pornhub by Bigtink. The package id is com.crimzleyumy.icrimzuyumy."
+    - name: "Search for Pornhub or Bigtink Pornhub App"
+      text: "In the Play Store search bar, type Pornhub or Bigtink Pornhub App. Tap the listing titled Bigtink Pornhub App. The package id is com.crimzleyumy.icrimzuyumy."
     - name: "Tap Install"
       text: "The Install button is in the top-right of the listing. Download takes 10-30 seconds on a typical US connection. The permissions preview should list only Internet, network state, and optional storage. Back out if anything else is requested."
     - name: "Tap Open"
@@ -72,7 +72,7 @@ Tap the Play Store icon on your home screen or app drawer. If you don't have the
 In the Play Store search bar, type either:
 
 - **Pornhub** — returns the app as the top result in the US Play Store
-- **Pornhub by Bigtink** — surfaces it faster if your region shows multiple results
+- **Bigtink Pornhub App** — surfaces it faster if your region shows multiple results
 
 Tap the listing titled **Pornhub** by Bigtink. (The package id `com.crimzleyumy.icrimzuyumy` is the original developer id — the visible app name was rebranded from Crimzle Yumy in 2026, but the package id can't change without losing install history.)
 
@@ -146,7 +146,7 @@ Standard Android uninstall: long-press the icon → App info → Uninstall. Noth
 - **[Permissions deep-dive]({{ '/pornhub-app-permissions-android/' | relative_url }})** — what the app asks for and why
 - **[60-day safety analysis]({{ '/pornhub-app-android-2026-safety/' | relative_url }})** — packet capture and Play Protect score
 - **[30-day usage review]({{ '/pornhub-app-30-day-review/' | relative_url }})** — long-term real-world test
-- **[Pornhub by Bigtink — developer profile]({{ '/pornhub-app-by-bigtink-official/' | relative_url }})** — who Bigtink is, rebrand history
+- **[Bigtink Pornhub App — developer profile]({{ '/pornhub-app-by-bigtink-official/' | relative_url }})** — who Bigtink is, rebrand history
 - **[Google Play US listing details]({{ '/pornhub-app-android-google-play-usa-2026/' | relative_url }})** — what the store page shows
 - **[Android vs iPhone Safari]({{ '/pornhub-app-android-vs-iphone-safari/' | relative_url }})** — cross-platform comparison
 - **[Video walkthrough]({{ '/crimzle-yumy-video-review/' | relative_url }})** — 48-second screen recording

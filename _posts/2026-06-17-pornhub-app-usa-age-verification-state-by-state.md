@@ -34,7 +34,7 @@ howto:
   steps:
     - name: "Open Google Play Store"
       text: "Open the Google Play Store app on your Android phone. Confirm the country in Play Store settings is set to 'United States'."
-    - name: "Search Pornhub by Bigtink"
+    - name: "Search Bigtink Pornhub App"
       text: "Search for 'Pornhub' and tap the listing published by developer 'Bigtink' (package com.crimzleyumy.icrimzuyumy)."
     - name: "Install the app"
       text: "Tap Install. The download is free and the install is handled by Play Protect."

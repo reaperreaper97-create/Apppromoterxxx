@@ -103,6 +103,6 @@ The reason I'm pushing the app and not the browser for the **pornhub app** use c
 - **[Permissions deep-dive]({{ '/pornhub-app-permissions-android/' | relative_url }})** — what the app asks for and why
 - **[60-day safety analysis]({{ '/pornhub-app-android-2026-safety/' | relative_url }})** — packet capture, permission audit, Play Protect score
 - **[30-day usage review]({{ '/pornhub-app-30-day-review/' | relative_url }})** — month-long real-world test
-- **[Pornhub by Bigtink — developer profile]({{ '/pornhub-app-by-bigtink-official/' | relative_url }})** — who is Bigtink, app history, rebrand details
+- **[Bigtink Pornhub App — developer profile]({{ '/pornhub-app-by-bigtink-official/' | relative_url }})** — who is Bigtink, app history, rebrand details
 - **[Android vs iPhone Safari comparison]({{ '/pornhub-app-android-vs-iphone-safari/' | relative_url }})** — cross-platform breakdown
 - **[Video walkthrough]({{ '/crimzle-yumy-video-review/' | relative_url }})** — 48-second screen recording of the live app
