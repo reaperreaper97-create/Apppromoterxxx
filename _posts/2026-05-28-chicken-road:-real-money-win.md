@@ -2,6 +2,7 @@
 layout: post
 title: "Chicken Road: Real Money Win — Review & Guide"
 date: 2026-05-28 17:19:57
+permalink: /chicken-road-real-money-win/
 tags: [review, android, gaming]
 ---
 

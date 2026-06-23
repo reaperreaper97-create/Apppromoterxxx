@@ -2,6 +2,7 @@
 layout: post
 title: "Chicken Road — Review & Guide"
 date: 2026-05-27 21:06:18
+permalink: /chicken-road/
 tags: [review, android, gaming]
 ---
 
