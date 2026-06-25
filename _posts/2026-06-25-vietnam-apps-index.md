@@ -2,7 +2,7 @@
 layout: post
 title: "20 Vietnam Apps on Google Play 2026 — Match Puzzle, RPG & Casino Games"
 permalink: /vietnam-apps-google-play-2026/
-date: 2026-06-25 12:00:00 +0000
+date: 2026-06-25 08:00:00 +0000
 tags: [vietnam apps, google play, android games, match puzzle, rpg, casino]
 ---
 
